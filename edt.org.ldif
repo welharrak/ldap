@@ -46,7 +46,7 @@ memberUid: marta
 memberUid: jordi
 objectclass: posixGroup
 
-dn: cn=walid,ou=grups,dc=edt,dc=org
+dn: cn=Jhon,ou=grups,dc=edt,dc=org
 objectclass: posixAccount
 objectclass: inetOrgPerson
 cn: user01
